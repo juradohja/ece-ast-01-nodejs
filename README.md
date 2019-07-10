@@ -1,5 +1,4 @@
-### ECE Paris
-### Asynchronous Server Technologies
+#### ECE Paris | Asynchronous Server Technologies
 
 # NodeJS
 
