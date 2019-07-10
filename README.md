@@ -2,8 +2,6 @@
 
 # NodeJS
 
-## Introduction
-
 This is the first of a series of exercises done in the Asynchronous Server Technologies course 
 at ECE Paris, summer 2019. It consists of a very simple and basic web application built with NodeJS.
 It's purpose is to understand the basics of developing a web application with this tool, understanding 
