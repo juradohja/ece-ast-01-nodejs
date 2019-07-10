@@ -1,13 +1,7 @@
----
----
-
 ### ECE Paris
 ### Asynchronous Server Technologies
 
 # NodeJS
-##### by: José Alberto Jurado
-
----
 
 ## Introduction
 
@@ -21,4 +15,5 @@ callback functions, routing, query parameters and modules.
 To run, simply execute `node index.js` and navigate to `localhost:8082/`. You may change the port at
 `index.js`.
 
+##### by: José Alberto Jurado
 
